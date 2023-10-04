@@ -9,11 +9,18 @@
 
 ## **Information**
 
-- 🌐 I'm currently using and creating stuff in radiant black, unreal engine, maya, visual Studio, Blender
-- 🔭 I’m currently working on: Content and Tools for Game Modding and Unreal Engine 5 Game ✨ _🤯Secret🤯 _ ✨ 
+- 🌐 I'm currently using and creating stuff Using
+| radiant black |
+| unreal engine |
+| maya |
+| visual Studio |
+| Blender |
+
 - 🌱 I’m currently learning:
-- Web development,
-- App development
+| Web developments |
+| App development |
+| C#, C++, lua, python |
+
 - 💬 Ask me about: Anything you need help with.
 - 📫 How to reach me: On Discord or any of my Social Media accounts!
 - 😄 Pronouns: He/Him
@@ -36,7 +43,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<!--<img src="https://rm.up.railway.app/" width="512px"/> -->
 
 ## **Social Media**
 <br/>
