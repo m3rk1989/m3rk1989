@@ -22,23 +22,6 @@
    Let's check out in your profile readme!
 </p>
 
-<p align="center">
-   <img src="https://img.shields.io/badge/language-python-blue?style"/>
-   <img src="https://img.shields.io/github/license/anmol098/waka-readme-stats"/>
-   <img src="https://img.shields.io/github/stars/anmol098/waka-readme-stats"/>
-   <img src="https://img.shields.io/github/forks/anmol098/waka-readme-stats"/>
-   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
-</p>
-<p align="center">
-   Are you an early 🐤 or a night 🦉?
-   <br/>
-   When are you most productive during the day?
-   <br/>
-   What are languages you code in?
-   <br/>
-   Let's check out in your profile readme!
-</p>
-
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://avatars.githubusercontent.com/u/20825215?v=4">
 
 ## **Information**
