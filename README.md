@@ -36,14 +36,14 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m3rk1989&theme=vue-dark&hide_border=false" alt="m3rk1989" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m3rk1989&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="m3rk1989" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=m3rk1989&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true" alt="m3rk1989" /></p>
-<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=m3rk1989" alt="m3rk1989" /></a></p>
+<!--<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=m3rk1989" alt="m3rk1989" />--></a></p>
 </br>
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 😂 Random Dev Meme
-<!--<img src="https://rm.up.railway.app/" width="512px"/> -->
+<!--## 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/> -->
 
 ## **Social Media**
 <br/>
