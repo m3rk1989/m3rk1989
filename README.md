@@ -1,7 +1,7 @@
 # 🤝 **Hello There You Wonderful Person** 🤝
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=m3rk1989&label=Profile%20views&color=0e75b6&style=flat" alt="m3rk1989" /> </p>
 
-<img src="https://camo.githubusercontent.com/eea8498e9cdcb8b195935502daf13addb8476e2773be7a7e515512df5dad45db/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d3f666f6e743d54696c6c616e61267765696768743d3630302673697a653d3330266475726174696f6e3d333530302670617573653d36303026636f6c6f723d363446373434267643656e7465723d747275652677696474683d343335266c696e65733d4d792b6e616d652b69732b4d69636861656c2b6f722b676f2b61733b2a2a6d33726b313938392a2a2b6f6e6c696e652e2b3b49276d2b612b73656c662b7461756768742b536f6674776172652b3b446576656c6f7065722532464c6576656c2b446973676e65723b66726f6d2b456e676c616e642b776974682b612b646565703b2b696e7465726573742b696e2b67616d652b6d6f6464696e672532433b2b33442b47726170686963732532432b726576657273653b656e67696e656572696e672e2b492b616d2b3b636f6e7374616e746c792b6c6561726e696e672b616e642b616d3b616c776179732b6f70656e2b746f2b6e65773b616476656e74757265732e" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.demolab.com?font=Tillana&amp;weight=600&amp;size=30&amp;duration=3500&amp;pause=600&amp;color=64F744&amp;vCenter=true&amp;width=435&amp;lines=My+name+is+Michael+or+go+as;**m3rk1989**+online.+;I'm+a+self+taught+Software+;Developer%2FLevel+Disgner;from+England+with+a+deep;+interest+in+game+modding%2C;+3D+Graphics%2C+reverse;engineering.+I+am+;constantly+learning+and+am;always+open+to+new;adventures." style="max-width: 100%;">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tillana&weight=600&size=30&duration=3500&pause=600&color=00d7ff&vCenter=true&width=435&lines=My+name+is+Michael+or+go+as;**m3rk1989**+online.+;I'm+a+self+taught+Software+;Developer%2FLevel+Disgner;from+England+with+a+deep;+interest+in+game+modding%2C;+3D+Graphics%2C+reverse;engineering.+I+am+;constantly+learning+and+am;always+open+to+new;adventures." alt="Typing SVG" /></a>
 
 ## **About Me**
 
@@ -33,20 +33,19 @@ I have 8 people that i dedicate my world to. I concider my self as a quick learn
 <a href="https://www.lua.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" width="40" height="40"/> </a>
 
 ## **Stats**
+
 <br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m3rk1989&theme=vue-dark&hide_border=false" alt="m3rk1989" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m3rk1989&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="m3rk1989" /></p>
-<!--<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=m3rk1989&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true" alt="m3rk1989" /></p>
-<!--<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=m3rk1989" alt="m3rk1989" />--></a></p>
 </br>
 
 ## ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!--## 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/> -->
 
 ## **Social Media**
+
 <br/>
 <a href="https://account.xbox.com/en-gb/Profile?rtc=1&csrf=mX3V7ql59ZRj2IZVy2AVOu7VasDLeZw8QBuyAv-QXxUru4DU9bs6tbwSdQxOOxvt6yieHTT0k7DodrjF-WPttCDJPNE1&wa=wsignin1.0">
 <img align="left" alt="m3rk1989 | Xbox" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/xbox.svg"  /></a>
@@ -58,8 +57,8 @@ I have 8 people that i dedicate my world to. I concider my self as a quick learn
 <img align="left" alt="m3rk1989 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /></a>
 <a href="https://www.instagram.com/m3rk1989">
 <img align="left" alt="m3rk1989 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-<img align="left" alt="m3rk1989 | TikTok" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" /></a>
 <a href="https://www.tiktok.com/@9_members">
+<img align="left" alt="m3rk1989 | TikTok" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" /></a>
 </br>
 
 
