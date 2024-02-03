@@ -10,18 +10,19 @@ I have 8 people that i dedicate my world to. I concider my self as a quick learn
 
 ## **Information**
 
-- 🎮 I'm currently using and creating stuff Using
+-- I'm currently using and creating stuff Using --
 - 🗺️ radiant black
 - 🗺️ unreal engine
 - 🛠️ maya
 - 👨🏼‍💻 visual Studio
 - 🛠️ Blender
 
-- 🏫 I’m currently learning:
+-- I’m currently learning --
 - 🌐 Web developments
 - 🖥️ App development
 - 👨🏼‍💻 C#, C++, lua, python
 
+-- For you about me --
 - 💬 Ask me about: Anything you need help with.
 - 📫 How to reach me: On Discord or any of my Social Media accounts!
 - 😄 Pronouns: He/Him
