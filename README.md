@@ -1,4 +1,4 @@
-# 🤝 **Hello There You Wonderful Person** 🤝
+# 👋 **Hello There You Wonderful Person** 👋
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=m3rk1989&label=Profile%20views&color=0e75b6&style=flat" alt="m3rk1989" /> </p>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tillana&weight=600&size=30&duration=3500&pause=600&color=00d7ff&vCenter=true&width=435&lines=My+name+is+Michael+or+go+as;**m3rk1989**+online.+;I'm+a+self+taught+Software+;Developer%2FLevel+Disgner;from+England+with+a+deep;+interest+in+game+modding%2C;+3D+Graphics%2C+reverse;engineering.+I+am+;constantly+learning+and+am;always+open+to+new;adventures." alt="Typing SVG" /></a>
@@ -10,17 +10,17 @@ I have 8 people that i dedicate my world to. I concider my self as a quick learn
 
 ## **Information**
 
-- 🌐 I'm currently using and creating stuff Using
-| radiant black |
-| unreal engine |
-| maya |
-| visual Studio |
-| Blender |
+- 🎮 I'm currently using and creating stuff Using
+- 🗺️ radiant black
+- 🗺️ unreal engine
+- 🛠️ maya
+- 👨🏼‍💻 visual Studio
+- 🛠️ Blender
 
-- 🌱 I’m currently learning:
-| Web developments |
-| App development |
-| C#, C++, lua, python |
+- 🏫 I’m currently learning:
+- 🌐 Web developments
+- 🖥️ App development
+- 👨🏼‍💻 C#, C++, lua, python
 
 - 💬 Ask me about: Anything you need help with.
 - 📫 How to reach me: On Discord or any of my Social Media accounts!
