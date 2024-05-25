@@ -13,14 +13,18 @@ I have 8 people that i dedicate my world to. I concider my self as a quick learn
 [ - I'm currently using - ]
 - 🗺️ radiant black
 - 🗺️ unreal engine
-- 🛠️ maya
+- 🛠️ autodesk maya
 - 👨🏼‍💻 visual Studio
 - 🛠️ Blender
+- 👨🏼‍💻 sublime text
+- 👨🏼‍💻 visual studio code
+- 🛠️ paint.net
+- 👨🏼‍💻 Notepad++
 
 [ - I’m currently learning - ]
 - 🌐 Web developments
 - 🖥️ App development
-- 👨🏼‍💻 C#, C++, lua, python
+- 👨🏼‍💻 C#, C++, lua, python, 
 
 [ - Helping - ]
 - 💬 Ask me about: Anything you need help with.
