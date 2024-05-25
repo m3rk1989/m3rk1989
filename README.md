@@ -5,7 +5,8 @@
 
 ## **About Me**
 
-I have 8 people that i dedicate my world to. I concider my self as a quick learner. I also have Mental Health problems witch i am not ashamed of. There is never much time on the planet so i will try and give everything ago. [ !!Challenge Accepted!! ]
+I have 8 people that i dedicate my world to. I concider my self as a quick learner. I also have Mental Health problems witch i am not ashamed of. There is never much time on the planet so i will try and give everything ago.
+[ !!Challenge Accepted!! ]
 <img align="right" alt="" src="https://avatars.githubusercontent.com/u/20825215?v=4" width="300" height="300" class="avatar avatar-user width-full border color-bg-default">
 
 ## **Information**
