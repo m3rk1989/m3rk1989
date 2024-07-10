@@ -24,7 +24,7 @@ I have 8 people that i dedicate my world to. I concider my self as a quick learn
 - 👨🏼‍💻 Notepad++
 
 [ - I’m currently learning - ]
-- 🌐 Web developments
+- 🌐 Web development
 - 🖥️ App development
 - 👨🏼‍💻 C#, C++, lua, python, 
 
