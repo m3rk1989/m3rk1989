@@ -26,7 +26,7 @@ I have 8 people that i dedicate my world to. I concider my self as a quick learn
 [ - I’m currently learning - ]
 - 🌐 Web development
 - 🖥️ App development
-- 👨🏼‍💻 C#, C++, lua, python, 
+- 👨🏼‍💻 C#, C++, lua, python
 
 [ - Helping - ]
 - 💬 Ask me about: Anything you need help with.
