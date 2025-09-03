@@ -15,13 +15,13 @@ Nothing Accepted ATM
 <img align="right" alt="" src="https://avatars.githubusercontent.com/u/20825215?v=4" width="300" height="300" class="avatar avatar-user width-full border color-bg-default">
 
 [ - I'm currently using - ]
-- 🛠️ radiant black
-- 🛠️ unreal engine
-- 🛠️ Autodesk maya
-- 🖍 Visual Studio
+- 🛠️ Radiant-Black
+- 🛠️ Unreal-Engine
+- 🛠️ Maya
+- 🖍 Visual-Studio
 - 🛠️ Blender
-- 🖍 Sublime text
-- 🖍 Visual studio code
+- 🖍 Sublime-Text
+- 🖍 Visual-Studio-Code
 - 🖌 Paint.net
 - 🖍 Notepad++
 - 🖌 Gimp
