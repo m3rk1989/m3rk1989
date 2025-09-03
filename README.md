@@ -1,4 +1,4 @@
-# 👋 **Hello There You Wonderful Person** 👋
+# 👁 👋 **Hello There You Beautiful Person** 👋 👁
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=m3rk1989&label=Profile%20views&color=0e75b6&style=flat" alt="m3rk1989" /> </p>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tillana&weight=600&size=30&duration=3500&pause=600&color=00d7ff&vCenter=true&width=435&lines=My+name+is+Michael+or+go+as;**m3rk1989**+online.+;I'm+a+self+taught+Software+;Developer%2FLevel+Disgner;from+England+with+a+deep;+interest+in+game+modding%2C;+3D+Graphics%2C+reverse;engineering.+I+am+;constantly+learning+and+am;always+open+to+new;adventures." alt="Typing SVG" /></a>
@@ -15,27 +15,34 @@ Nothing Accepted ATM
 <img align="right" alt="" src="https://avatars.githubusercontent.com/u/20825215?v=4" width="300" height="300" class="avatar avatar-user width-full border color-bg-default">
 
 [ - I'm currently using - ]
-- :feelsgood: radiant black
-- :feelsgood: unreal engine
-- 🖥️ autodesk maya
-- 🖥️ visual Studio
+- 🛠️ radiant black
+- 🛠️ unreal engine
+- 🛠️ Autodesk maya
+- 🖍 Visual Studio
 - 🛠️ Blender
-- 🖍 sublime text
-- 🖥️ visual studio code
-- 🛠️ paint.net
+- 🖍 Sublime text
+- 🖍 Visual studio code
+- 🖌 Paint.net
 - 🖍 Notepad++
-- 🛠️ Gimp
+- 🖌 Gimp
+- 📂 GitBash
 
 [ - I’m currently learning - ]
-- 🌐 Web development
-- 🖥️ App development
-- 👨🏼‍💻 C#, C++, lua, python, markdown
+- 👨🏼‍💻 Computer Science
+- 👨🏼‍💻 Web development
+- 👨🏼‍💻 Application development
+- 👨🏼‍💻 C#
+- 👨🏼‍💻 lua
+- 👨🏼‍💻 C++
+- 👨🏼‍💻 python
+- 👨🏼‍💻 markdown
+- 👨🏼‍💻 html
 
 [ - Helping - ]
 - 💬 Ask me about: Anything you need help with.
-- 📫 How to reach me: On Discord or any of my Social Media accounts!
+- 📫 How to reach me: On any of my Social Media accounts!
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Life is what you make it.
+- ⚡ Fun fact: Life is what you make it Y.O.L.O .
 
 ## **Languages and Tools I Have Used:**
 
