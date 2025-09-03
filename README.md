@@ -5,7 +5,7 @@
 
 ## **About Me**
 
-I have 8 people that i dedicate my world to. I concider my self as a quick learner. I also have Mental Health problems witch i am not ashamed of or let it get in my way of achieving with stuff i do. There is never much time on the planet so i will try and give everything ago.
+I have 9 people that i dedicate my world to. I concider my self as a quick learner. I also have Mental Health problems witch i am not ashamed of or let it get in my way of achieving with stuff i do. There is never much time on the planet so i will try and give everything ago.
 
 [ !!Challenge Accepted!! ]
 Nothing Accepted ATM
